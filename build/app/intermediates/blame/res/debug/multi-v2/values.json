@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/felipe/Documentos/flutterProjetos/lista_tarefas/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/home/felipe/Documentos/Git Project/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/home/felipe/Documentos/flutterProjetos/lista_tarefas/android/app/src/main/res/values/styles.xml",
+                    "source": "/home/felipe/Documentos/Git Project/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
